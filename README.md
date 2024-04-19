@@ -3,6 +3,7 @@
 
 ## 🚀 About Me
 **Name:** **Giresse Ilunga**
+
 **Role**: **Assistant General Manager and Personal Trainer at The Gym Group| Software Engineer Student at HyperionDev**
 My journey in the tech industry is fueled by my desire to solve real world problems, enhance people's lives through software, and contribute to a healthier, more connected world. I am deeply passionate about technology and fitness believing in transformative continuous learning.
 
