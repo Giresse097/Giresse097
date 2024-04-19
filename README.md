@@ -1,5 +1,5 @@
 # Giresse097
-**Welcome to my GitHub profile! I'm Giresse, a passionate and aspiring software engineer currently honing my skills through HyperioDev's immersive Software Engineering bootcamp. Alongside my journey into the tech world, I am also an Assistant General Manager and a Personal Trainer at The Gym Group, where I dedicate myself to fostering environments that promote growth, health, and well-being.**
+**Welcome to my GitHub profile! I'm Giresse, a passionate and aspiring software engineer currently honing my skills through HyperionDev's immersive Software Engineering bootcamp. Alongside my journey into the tech world, I am also an Assistant General Manager and a Personal Trainer at The Gym Group, where I dedicate myself to fostering environments that promote growth, health, and well-being.**
 
 ## 🚀 About Me
 **Name:** **Giresse Ilunga**
