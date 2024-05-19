@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T12:24:35.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zxY2WoxBgnapGSKQ6FB2" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T12:25:27.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Z1ptS2ZCqvvrGSTzSVNY" version="24.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1493" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -41,9 +41,9 @@
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--11" value="+ addUser(User,user)&#xa;&#xa;+removeUser(User,user)&#xa;&#xa;+assignTask(User,user, Task, task)&#xa;&#xa;+getTasksByUser( User,user)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--6" vertex="1">
           <mxGeometry y="86" width="200" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--12" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--12" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DX_iQLr-ehtLK-x8ReV7-8" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="170" y="-934" as="sourcePoint" />
+            <mxPoint x="270" y="-930" as="sourcePoint" />
             <mxPoint x="628" y="-1284" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="-934" />
